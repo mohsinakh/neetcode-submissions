@@ -69,7 +69,7 @@ Data Structures & Algorithms/
 
 ## Profile Links
 
-- Portfolio: https://mohsinabbas.site/
+- Portfolio: https://mohsinkhan.online/
 - LinkedIn: https://www.linkedin.com/in/mohsin-abbas-7252b126b
 
 ---
